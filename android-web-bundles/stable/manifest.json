@@ -3,11 +3,11 @@
     "schemaVersion": 1,
     "channel": "stable",
     "version": "0.3.9",
-    "commit": "85936f58cd5d4609bb5d6ffe0830217c0dc64a78",
-    "publishedAt": "2026-09-25T18:20:43.174Z",
+    "commit": "b41d243b30b9d48fe51ea6b87b276a7769763617",
+    "publishedAt": "2026-10-18T22:20:06.144Z",
     "entry": "index.html",
-    "bundleUrl": "https://raw.githubusercontent.com/Team-Porygon-PokeMMO/porysite-overlay-releases/main/android-web-bundles/bundles/0.3.9-85936f58cd5d.zip",
-    "bundleSha256": "fb75f5d958fb3cd8116a64ca8cc0f76023a723b561ebcfd5c052350690a71ec7",
+    "bundleUrl": "https://raw.githubusercontent.com/Team-Porygon-PokeMMO/porysite-overlay-releases/main/android-web-bundles/bundles/0.3.9-b41d243b30b9.zip",
+    "bundleSha256": "bf41fd348b596731103c6f5c290284f8548553b31607dea088e203d3d8d2fc41",
     "native": {
       "minAppVersion": "0.3.0",
       "minBridgeVersion": 1
@@ -49,9 +49,9 @@
         "bytes": 137
       },
       {
-        "path": "assets/index-D5lq5LJU.js",
-        "sha256": "0dcf0c36d8664b5e68e44dea15e8ac001b46ff5917208f57d7d16347a96c76a8",
-        "bytes": 1005010
+        "path": "assets/index-DGEpDy5E.js",
+        "sha256": "39fc8580ae4260b833e62b95fb207a790c0cf1fa441eaa51058fdd8fea1e2684",
+        "bytes": 993701
       },
       {
         "path": "assets/index-xrGEawDD.css",
@@ -4360,13 +4360,13 @@
       },
       {
         "path": "index.html",
-        "sha256": "cbda220f76609e2e086af97e702c914a28283aa68d2a30099e59974d92263f11",
+        "sha256": "8cd1e931148675e6f3457e723334f343f85dbf2f271b0414c0d316b15b0e3509",
         "bytes": 406
       }
     ]
   },
   "signature": {
     "alg": "SHA256withRSA",
-    "value": "UF4tIJOWQDRJlq1bgHCy+TVpKxhuGiqtsQuF93MGA0Qwy8JGes1kJDlSz1NkFuk3c+i7vcv1KDN+8h6bnLXMforDC3G/ay5QJ0VKSKFbE1iqW34q+7KLRiqGAhqemAxmujUSeMWOZ5+Vu7ExBQ7XekiEbnpy5PI1mGfC0cSbrn+YyQNROw3B4285OnuchmzT2AGeAn+7LMJk4l9SoX7LXW2somHztsXEzciF8c6XnYSdL5yvTlwBCcg0nvTj2xpH2YHqB2p2enLFD7V4B/4uyKHRQU5JRcvQ5txFDC+M4GSavZhIK2kAjoiwZv8Zl99yF9vsbWKihhqFMY/N7wNmFQ=="
+    "value": "lerLeqSD7qUtsa8LiB2SbcFSQSsMlYFlCZcw/FbCh4WnQvhW/yevfBmf09Xl6Oe9MB+Sk0Biqa4TptGMctf7PezhQAOdKVrngnP+aJptVzt7QPvOw5hDi39vMH0uZdaHzZUSUFvtni9Fuqh4LoEwtYIDEDr/yfQrHnfJGvA9Z5ITTCmm/J37jCVy1UtgJ+q4c75Cu2r3eQ3f50qUY3G8AQXhduIrtqUROlaShM9+AASkEQhrpfeuSUhP6UDA+YVM09SVBIWVt90AGVB+vphugmP0hSleAhYW8gwxErFRKi7u/aMGS+I6rrZzwLSvADgK9XTChPhaCUkUBT+Hjj9Usg=="
   }
 }
