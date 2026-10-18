@@ -3,11 +3,11 @@
     "schemaVersion": 1,
     "channel": "stable",
     "version": "0.3.9",
-    "commit": "b41d243b30b9d48fe51ea6b87b276a7769763617",
-    "publishedAt": "2026-10-18T22:20:06.144Z",
+    "commit": "5201824ef04ddd5e0f3a2cd8528b4291082cc515",
+    "publishedAt": "2026-10-18T22:46:47.111Z",
     "entry": "index.html",
-    "bundleUrl": "https://raw.githubusercontent.com/Team-Porygon-PokeMMO/porysite-overlay-releases/main/android-web-bundles/bundles/0.3.9-b41d243b30b9.zip",
-    "bundleSha256": "bf41fd348b596731103c6f5c290284f8548553b31607dea088e203d3d8d2fc41",
+    "bundleUrl": "https://raw.githubusercontent.com/Team-Porygon-PokeMMO/porysite-overlay-releases/main/android-web-bundles/bundles/0.3.9-5201824ef04d.zip",
+    "bundleSha256": "6479a8f3266465da17d07c46da46e65894bc84250427d2aabc47a6558f7598f5",
     "native": {
       "minAppVersion": "0.3.0",
       "minBridgeVersion": 1
@@ -39,6 +39,11 @@
         "bytes": 2027
       },
       {
+        "path": "assets/index-C7g14oYr.js",
+        "sha256": "d4f84707b5db2bcf0c058c16e73520656861ffdd4de718d9c0415fbfa4dd92f7",
+        "bytes": 993701
+      },
+      {
         "path": "assets/index-CgtcFnTI.js",
         "sha256": "1adce30f102d229342fb7b2abf55058b5a544dbf9738a94fbf98dd933334f66d",
         "bytes": 1100
@@ -47,11 +52,6 @@
         "path": "assets/index-CSowsFI4.js",
         "sha256": "76235bccc03fc952e7b00d304ace77538a0e13c50fa7dd101e4a94e1a96c1e11",
         "bytes": 137
-      },
-      {
-        "path": "assets/index-DGEpDy5E.js",
-        "sha256": "39fc8580ae4260b833e62b95fb207a790c0cf1fa441eaa51058fdd8fea1e2684",
-        "bytes": 993701
       },
       {
         "path": "assets/index-xrGEawDD.css",
@@ -4360,13 +4360,13 @@
       },
       {
         "path": "index.html",
-        "sha256": "8cd1e931148675e6f3457e723334f343f85dbf2f271b0414c0d316b15b0e3509",
+        "sha256": "99ef7afc42ae961cb9c082462ce9058e39485c0557401ff3df1b61d5b7d9fec7",
         "bytes": 406
       }
     ]
   },
   "signature": {
     "alg": "SHA256withRSA",
-    "value": "lerLeqSD7qUtsa8LiB2SbcFSQSsMlYFlCZcw/FbCh4WnQvhW/yevfBmf09Xl6Oe9MB+Sk0Biqa4TptGMctf7PezhQAOdKVrngnP+aJptVzt7QPvOw5hDi39vMH0uZdaHzZUSUFvtni9Fuqh4LoEwtYIDEDr/yfQrHnfJGvA9Z5ITTCmm/J37jCVy1UtgJ+q4c75Cu2r3eQ3f50qUY3G8AQXhduIrtqUROlaShM9+AASkEQhrpfeuSUhP6UDA+YVM09SVBIWVt90AGVB+vphugmP0hSleAhYW8gwxErFRKi7u/aMGS+I6rrZzwLSvADgK9XTChPhaCUkUBT+Hjj9Usg=="
+    "value": "YbDreS0/7kDZZbOY5v4X7eTtHzDzRzx9L0fF0pmpvA1l80i2R3jQ7BzqUiuunlo5LU3fmKCKw1xFSWbV3IUcY0L3+BNETQ38MCSmRVpXhLtuoAOcXJDtb4x56mkh+GXl1N5dkqLAJnc3iE521DcrSWjBRttKL1LO9mWkvtCfF8nvNYRXHc5OLnTG30FuLywz3IBudL2J+AIoYwsfSfUEdTKFcHkj5ufsatPi3uqm20jNqwMDsPMwAVHTxhKvpX4174G5kjaI4aM9No/CiVT6GM9e7Qk2WgimPOV+4NcSsKOWUvyQxol+KDees2OxLzRnIUvqDfdKlF+GExKwn5fN0A=="
   }
 }
