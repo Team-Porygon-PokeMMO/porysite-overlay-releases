@@ -3,11 +3,11 @@
     "schemaVersion": 1,
     "channel": "stable",
     "version": "0.3.9",
-    "commit": "0cfe48cc0b622cc4d86fc3ef51c35e316f0c5dc9",
-    "publishedAt": "2026-10-19T14:13:46.917Z",
+    "commit": "345f51291c69a79d1c537d3f0fdeff8df4ea4e13",
+    "publishedAt": "2026-10-19T14:21:57.222Z",
     "entry": "index.html",
-    "bundleUrl": "https://raw.githubusercontent.com/Team-Porygon-PokeMMO/porysite-overlay-releases/main/android-web-bundles/bundles/0.3.9-0cfe48cc0b62.zip",
-    "bundleSha256": "ef54026ab69794621b8d76acbfb3edc1d242b80a8d138bf0ce6c01ecfd7fda17",
+    "bundleUrl": "https://raw.githubusercontent.com/Team-Porygon-PokeMMO/porysite-overlay-releases/main/android-web-bundles/bundles/0.3.9-345f51291c69.zip",
+    "bundleSha256": "2e85f8eb7cb24937f2c35a30b479c3e1d951822a94c2d07b427774730fac53a1",
     "native": {
       "minAppVersion": "0.3.0",
       "minBridgeVersion": 1
@@ -24,14 +24,14 @@
         "bytes": 1661
       },
       {
+        "path": "assets/index-3_93BFKE.js",
+        "sha256": "13cfa522be049e5f5d374036fc41cf11430272606a91a433060cb3355d2f5348",
+        "bytes": 993701
+      },
+      {
         "path": "assets/index-B8rbb-e6.js",
         "sha256": "0dafd80d5b2914bb67d0ebea7f1f1991b0696aefc445105adee462b969e1c199",
         "bytes": 120
-      },
-      {
-        "path": "assets/index-BTgSYglT.js",
-        "sha256": "c10cf5e3459e95a6e1b44186096ca63f996e5f9b7f65f1b19e7d956b9d29179e",
-        "bytes": 993701
       },
       {
         "path": "assets/index-ByiZRLl6.js",
@@ -4360,13 +4360,13 @@
       },
       {
         "path": "index.html",
-        "sha256": "28497e7a8336b016c01f406d5ae2c60100079af71609cb2394eaeb9cb746e9a6",
+        "sha256": "35cfa11298c51a841977661032015f8cbf4b704455bf8a54bce69242d28dc7cf",
         "bytes": 406
       }
     ]
   },
   "signature": {
     "alg": "SHA256withRSA",
-    "value": "Hg9f49Un3vNID3Aj6UEK0Z2Jo4+OJ+1T8qlGsbdd+OtPoOn9EB/JJUkYkaeKoa4kehczLKkUt+bQGO7oXp28wQ7HizjSve0mhBraUSsLcqFsheZ4YYfoR4HGP4QriNfmJRFmYgoHkrP5ZwIGXXyLzAZl6IG2V9aIKqgdCsuYsQ4Xp7/sNu5woDiWiNNB8+m8iyvJlpIwfXbttv63saUqcClzGvb8jPZE0i4SZZgSKdqHV9agMZqzotV04YIbOCKru8QtDYb0FM/SfWi+MXYCPyiTPQDng3ebSmSswAJFCgY7pThImEdYtDsN/fafOUOymUEggG6vdPr/PHCzctWGmQ=="
+    "value": "i7F5Usu9ouu/80OFzA9PRj4obTJRNBKPKAdfL10XM+GZZsNhkIEP92gUI2jc7CNNVpRvz8fDVmWdH3jK07ziBd8tEKINIs+2TffLnSNrcD2IdpZTrM7+8nRR6gC+mjR95LBZznpK4i2GuL8ccITeUV9wX4gO+fNfw0PVj/WrTrYrZUkMNiEutfjoKKVwkD4rHYBe3FH9/7FsgkYRe/AdtE7Igkqj1CQ1qN2hHKcS9zKb6ATzc67ebD+rXUAgDu2udUFc9t3Lwu02jKPh4ycjN1pzQDb8YwaBFy6WXjQS37KEJB/Na916aO6P49yB7M9ayc0r1bE5UEjbmM51BlzoKA=="
   }
 }
