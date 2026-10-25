@@ -3,11 +3,11 @@
     "schemaVersion": 1,
     "channel": "stable",
     "version": "0.3.9",
-    "commit": "a1b3b04a1e0790c00b23e4a84fd6e58a4acc5aaf",
-    "publishedAt": "2026-10-19T16:41:12.224Z",
+    "commit": "a592b82e103224511d4cc67d572a1641147e73af",
+    "publishedAt": "2026-10-25T21:38:27.729Z",
     "entry": "index.html",
-    "bundleUrl": "https://raw.githubusercontent.com/Team-Porygon-PokeMMO/porysite-overlay-releases/main/android-web-bundles/bundles/0.3.9-a1b3b04a1e07.zip",
-    "bundleSha256": "6abf69eafcbb321f73c846bfad87a678817d87f5b6fb9a67b3c11258e14cfc93",
+    "bundleUrl": "https://raw.githubusercontent.com/Team-Porygon-PokeMMO/porysite-overlay-releases/main/android-web-bundles/bundles/0.3.9-a592b82e1032.zip",
+    "bundleSha256": "9bc4558a1b2489120044c0332af2a99a0bbdd9d02d6d6b448e14aaa95cb8435e",
     "native": {
       "minAppVersion": "0.3.0",
       "minBridgeVersion": 1
@@ -49,8 +49,8 @@
         "bytes": 137
       },
       {
-        "path": "assets/index-DoJlZag1.js",
-        "sha256": "d1cfde5a592ae285e857a5fe0a69bdfec5923b7305d175bb0769584b85d8b3a0",
+        "path": "assets/index-Ds-NqBfz.js",
+        "sha256": "1258ace73399800f7fe3ed38b3491c907648dac99ba047855961259f4df0fedd",
         "bytes": 993701
       },
       {
@@ -4360,13 +4360,13 @@
       },
       {
         "path": "index.html",
-        "sha256": "64e54650bfeaa2c04618de9efaed4255b190cfedc023b6b0831374c393b6a762",
+        "sha256": "ddc28187d9f5b86c843a2e8a86e9191e6e7fc5777c0752e169c7eeaad8486d63",
         "bytes": 406
       }
     ]
   },
   "signature": {
     "alg": "SHA256withRSA",
-    "value": "wkkha7rqYgWBcv3w5AbSZ7hw9iaTKEj3cEMGUdkGD1Oazi9P2XaZJW0vyieUVtNQw5PvPYRWakDeSczkCGEl16CL2ONN/OZ6TfeJA+XC8Nxmg2F4CMTZz9mmO2aKEULnkIIIW5nsc3WAzo9yzYbvCeCwCC5FrsV4f1QWrwXdWIEE5p2XBR0jhxUzlAn+VwrhOF+mlr1SiC8uJ7s/8hsnzw12xJEoVlNe9HWkzFs1NRXcYEu9C/bbX720+pgeybZBfoi/yQKsebzylsILI/Sdbw2wJjoBLmfQPQn/r7SB7WS9tsfx/Ny8P+j3jvtn/J/MqzoxgBMGgaRaUSy38m3xSA=="
+    "value": "LIuR6filN3tUbRpX15UK5pIBtcgTIw75HBtVtMb160wthjoG7PHQ/pDs9tnxdhsbhRjskxYHraR0KDfw0epGnbxURBhApaF7uRE6lcDQh4dbvyBF78g+7G2ql3oEmYzqQwQotJGnzES1oBU9+Kek4jf7KlgSbi4pl0RkCOqom0kkSxn6i2Cdg/sfkXddLqKmVvpMLgkrTtGL9rGO4vv9gG/ChnIGtWlU+60E10c8c0XAkSH1HTxW2iocrDMDA/as2R/v7RlOFbx1H7V2oUFzp/94kYZfu319czSpBlM5+oFPXbqKEfSGiSKkcIduU7+A31jO5+U4P51mp2taBW5g5g=="
   }
 }
